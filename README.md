@@ -21,12 +21,17 @@ An IoT relay module remotely powers the system, allowing embedded controller to 
 <h2>Design and Build Process:</h2>
 
 <p align="center">
-Altium Schematic: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
+Altium schematic design: <br/>
+<img src="images/AltiumSchematicCRSC.png" width="80%" alt="Altium schematic for IoT car remote start controller"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Arduino as ISP & Breadboard Prototype:  <br/>
+<p align="center">
+  <img src="images/ArduinoCodeCRSC.png" height="420" style="vertical-align: middle;" />
+  <img src="images/BreadboardPrototypeCRSC.jpg" height="420" style="vertical-align: middle;" />
+</p>
+The code for the system was uploaded to an ATtiny85 microcontroller using an Arduino Uno as a programmer. Shown is the first working breadboard prototype used to test the smart remote start system and key fob integration before designing the final PCB.
+
 <br />
 <br />
 Enter the number of passes: <br/>

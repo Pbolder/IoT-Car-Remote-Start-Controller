@@ -4,7 +4,7 @@
 
 
 <h2>Description</h2>
--
+Engineered an IoT-enabled vehicle remote start controller for my car. The project included custom circuit design in Altium, PhotoMOS relay isolation for OEM key fob integration, embedded firmware development, and onboard power regulation.
 <br />
 
 

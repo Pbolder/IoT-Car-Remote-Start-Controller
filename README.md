@@ -10,7 +10,8 @@
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Arduino</b> 
+- <b>Arduino as ISP</b>
+- <b>Altium</b>
 - <b>OnShape</b>
 
 

@@ -14,12 +14,15 @@ Engineered an IoT-enabled vehicle remote start controller for my car. The projec
 - <b>Altium</b>
 - <b>OnShape</b>
 
+<h2>How it Works:</h2>
+<img src="images/BlockchartCRSC.png" width="90%" alt="IoT car remote start controller block diagram"/>
+An IoT relay module remotely powers the system, allowing embedded controller to interface with a modified OEM key fob. PhotoMOS-isolated outputs electronically trigger the lock and remote start button signals while onboard voltage regulation provides stable power to both the controller and key fob circuitry.
 
 <h2>Design and Build Process:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Altium Schematic: <br/>
+<img src="https://i.imgur.com/62TgaWL.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>

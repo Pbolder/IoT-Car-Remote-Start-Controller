@@ -23,7 +23,7 @@ provides stable power to both the controller and key fob circuitry.
 <h2>Design and Build Process:</h2>
 
 <p align="center">
-Altium schematic design: <br/>
+Altium Schematic: <br/>
 <img src="images/AltiumSchematicCRSC.png" width="70%" alt="Altium schematic for IoT car remote start controller"/>
 <br />
 <br />

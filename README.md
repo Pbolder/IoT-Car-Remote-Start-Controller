@@ -57,4 +57,6 @@ Finished project:  <br/>
   <img src="images/Final2CRSC.JPG" height="350" />
 </p>
 
+## Author
 
+Designed and built by [Paul Bolder](https://github.com/Pbolder).
